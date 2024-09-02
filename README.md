@@ -1,2 +1,2 @@
 # Personal-Finance-Tracker
-A secure and intuitive tool for managing personal finances.
+A secure tool for managing finances built using SQL, Python, Tkinter.
